@@ -17,4 +17,4 @@ Pull requestler kabul edilebilir. Büyük değişiklikler için, lütfen önce n
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 # Markdown Ödevi Resmi
-![Resim](secreenshot (5))
+![Resim](resim.png)
